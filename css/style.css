@@ -343,14 +343,12 @@ footer css start here
 
 .footer-menu ul li{
     display: inline-block;
-    padding-right: 30px;
     
     
 }
 .footer-menu ul li a{
     font-family: 'Playfair Display', serif;
     text-decoration: none;
-    display: inline-block;
     padding-right: 10px;
     color: #000000;
     font-size: 14px;
